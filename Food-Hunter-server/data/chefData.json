@@ -1,0 +1,252 @@
+[
+ {
+    "id": 1,
+    "chefName": "Gordon Ramsay",
+    "experience": "30+ years",
+    "numRecipes": 500,
+    "likes": 1000000,
+    "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZHzAjbWyvqfwPgsCQXxNc1TSu__-wfA4-nwoAtjXr4vcOxDwWNbdmOnT78VxbS5TKbc&usqp=CAU",
+    "bio": "Gordon Ramsay is a world-renowned chef, restaurateur, and television personality with over 30 years of experience in the culinary industry. Known for his fiery personality and unrelenting passion for cooking, he has earned numerous accolades and awards for his innovative cuisine and exceptional leadership. With over 500 recipes in his repertoire, Chef Ramsay has established himself as a true culinary icon and an inspiration to aspiring chefs all over the world.",
+    "recipes": [
+      {
+        "recipeName": "Beef Wellington",
+        "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "Dijon mustard", "egg wash"],
+        "cookingMethod": "1. Preheat oven to 200C. 2. Sear the beef on all sides in a hot pan. 3. Spread mustard over the beef. 4. Cover with prosciutto and mushrooms. 5. Wrap in puff pastry. 6. Brush with egg wash. 7. Bake for 25-30 minutes. 8. Rest for 10 minutes before serving.",
+        "rating": 4.5,
+        "isFavorite": false
+      },
+      {
+        "recipeName": "Scrambled Eggs",
+        "ingredients": ["eggs", "butter", "salt", "pepper", "chives"],
+        "cookingMethod": "1. Whisk the eggs in a bowl. 2. Melt the butter in a non-stick pan. 3. Add the eggs to the pan. 4. Stir gently over low heat until just set. 5. Season with salt and pepper. 6. Serve immediately with chives.",
+        "rating": 3.8,
+        "isFavorite": false
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["beef sirloin", "onion", "garlic", "mushrooms", "sour cream", "paprika"],
+        "cookingMethod": "1. Cut the beef into thin strips. 2. Brown the beef in a hot pan. 3. Remove from the pan and set aside. 4. Add the onion and garlic to the pan and cook until soft. 5. Add the mushrooms and cook until tender. 6. Return the beef to the pan. 7. Add sour cream and paprika. 8. Cook until heated through. 9. Serve over rice or noodles.",
+        "rating": 4.2,
+        "isFavorite": false
+      }
+    ]
+  }
+,
+ {
+  "id": 2,
+  "chefName": "Jamie Oliver",
+  "experience": "20+ years",
+  "numRecipes": 300,
+  "likes": 500000,
+  "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZCqK3nImXPkfJdnaqSz_fI-xcwC6aZj7JpVCtX6LCbBNQDxMqtRgTrURS-11IYnT19o&usqp=CAU",
+  "bio": "Jamie Oliver is a British chef, restaurateur, and television personality known for his approachable cuisine and efforts to promote healthy eating. He has written multiple cookbooks, starred in numerous cooking shows, and founded a charity to promote food education in schools. Oliver's style of cooking emphasizes fresh, seasonal ingredients and simple techniques to create flavorful and healthy dishes that anyone can make at home.",
+  "recipes": [
+    {
+      "recipeName": "Roast Chicken",
+      "ingredients": ["whole chicken", "butter", "lemon", "garlic", "thyme"],
+      "cookingMethod": "1. Preheat the oven to 200C. 2. Rinse the chicken and pat dry. 3. Stuff the chicken with lemon halves, garlic cloves, and thyme sprigs. 4. Rub butter all over the chicken. 5. Season with salt and pepper. 6. Roast in the oven for 1-1.5 hours or until the internal temperature reaches 75C. 7. Let rest for 10-15 minutes before carving.",
+      "rating": 4.7,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Pasta Carbonara",
+      "ingredients": ["spaghetti", "pancetta", "eggs", "Parmesan cheese", "black pepper"],
+      "cookingMethod": "1. Cook the spaghetti in a large pot of salted water until al dente. 2. Meanwhile, sauté pancetta in a pan until crispy. 3. In a bowl, whisk together eggs and Parmesan cheese. 4. Drain the spaghetti and add it to the pan with pancetta. 5. Remove from heat and pour in the egg mixture. 6. Toss quickly to coat the spaghetti evenly. 7. Season with black pepper. 8. Serve immediately.",
+      "rating": 4.4,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Beef and Ale Stew",
+      "ingredients": ["beef chuck", "carrots", "onion", "celery", "ale", "beef stock"],
+      "cookingMethod": "1. Preheat the oven to 160C. 2. Cut the beef into chunks. 3. Heat oil in a Dutch oven over medium-high heat. 4. Sear the beef until browned on all sides. 5. Add the vegetables and cook until softened. 6. Pour in the ale and beef stock. 7. Bring to a simmer. 8. Cover and transfer to the oven. 9. Cook for 3-4 hours or until the beef is tender. 10. Serve with crusty bread.",
+      "rating": 4.2,
+      "isFavorite": false
+    }
+  ]
+},
+
+  {
+  "id": 3,
+  "chefName": "Ina Garten",
+  "experience": "25+ years",
+  "numRecipes": 200,
+  "likes": 400000,
+  "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AG-ASnxbWOXycjngbbLysN1i32FnfOp9dg&usqp=CAU",
+  "bio": "Ina Garten is an American author, chef, and television personality. She is known for her bestselling cookbooks and Food Network show, Barefoot Contessa. She is known for her simple and elegant approach to cooking, emphasizing the use of fresh, high-quality ingredients.",
+  "recipes": [
+    {
+      "recipeName": "Roast Chicken",
+      "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter", "salt", "pepper"],
+      "cookingMethod": "1. Preheat oven to 425F. 2. Rinse the chicken and pat dry. 3. Season the chicken inside and out with salt and pepper. 4. Stuff the cavity with lemon, garlic, and thyme. 5. Tie the legs together with kitchen twine. 6. Melt the butter and brush over the chicken. 7. Roast for 1 1/2 hours or until the internal temperature reaches 165F. 8. Let rest for 10 minutes before carving.",
+      "rating": 4.6,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Pesto Pasta",
+      "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil", "salt", "pepper"],
+      "cookingMethod": "1. Cook pasta according to package instructions. 2. In a food processor, blend basil, garlic, pine nuts, parmesan cheese, and olive oil until smooth. 3. Toss the cooked pasta with the pesto. 4. Season with salt and pepper. 5. Serve with additional parmesan cheese.",
+      "rating": 4.2,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Beef Bourguignon",
+      "ingredients": [
+        "beef chuck roast",
+        "bacon",
+        "carrots",
+        "onion",
+        "garlic",
+        "red wine",
+        "beef broth",
+        "thyme",
+        "bay leaf",
+        "butter",
+        "flour",
+        "salt",
+        "pepper"
+      ],
+      "cookingMethod": "1. Preheat oven to 350F. 2. Cut the beef into 2-inch cubes. 3. Cook bacon in a large Dutch oven over medium heat until crispy. 4. Remove the bacon and set aside. 5. Brown the beef in the bacon fat. 6. Remove the beef and set aside. 7. Add carrots and onion to the pot and cook until soft. 8. Add garlic and cook for 1 minute. 9. Add red wine and beef broth, scraping the bottom of the pot to loosen any browned bits. 10. Add thyme, bay leaf, and bacon. 11. Return the beef to the pot. 12. Cover and bake for 2 1/2 to 3 hours, until the beef is tender. 13. In a small bowl, mix butter and flour to form a paste.",
+      "rating": 4.2,
+      "isFavorite": false
+    }
+
+  ]
+  },
+
+
+  {
+  "id": 4,
+  "chefName": "Bobby Flay",
+  "experience": "25+ years",
+  "numRecipes": 400,
+  "likes": 600000,
+  "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoA6iHyM3VNWKB9jQAmOGTSNEmn69owlDcHBG1FZI5MqFfjfof2C85wetxazoFCBKuP8&usqp=CAU",
+  "bio": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He is the owner and executive chef of several restaurants, including Gato, Bar Americain, and Bobby's Burger Palace. He has appeared on several cooking shows, including Iron Chef America, Beat Bobby Flay, and Throwdown with Bobby Flay.",
+  "recipes": [
+    {
+      "recipeName": "Grilled Steak",
+      "ingredients": ["ribeye steak", "olive oil", "salt", "pepper"],
+      "cookingMethod": "1. Preheat grill to high heat. 2. Brush the steak with olive oil. 3. Season with salt and pepper. 4. Grill for 4-5 minutes per side for medium-rare. 5. Let the steak rest for 5 minutes before slicing and serving.",
+      "rating": 4.3,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Roasted Chicken",
+      "ingredients": ["whole chicken", "lemon", "garlic", "rosemary", "butter", "salt", "pepper"],
+      "cookingMethod": "1. Preheat oven to 425F. 2. Stuff the chicken with lemon, garlic, and rosemary. 3. Rub the chicken with butter. 4. Season with salt and pepper. 5. Roast for 1 hour and 15 minutes, or until the internal temperature reaches 165F. 6. Let the chicken rest for 10 minutes before carving and serving.",
+      "rating": 4.0,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Pasta Carbonara",
+      "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan cheese", "black pepper"],
+      "cookingMethod": "1. Cook the spaghetti in salted water until al dente. 2. In a separate pan, cook the pancetta until crispy. 3. In a bowl, whisk together the eggs, parmesan cheese, and black pepper. 4. Drain the spaghetti and add it to the pancetta pan. 5. Turn off the heat and add the egg mixture. 6. Stir until the sauce thickens. 7. Serve immediately.",
+      "rating": 4.5,
+      "isFavorite": false
+    }
+  ]
+},
+
+  {
+  "id": 5,
+  "chefName": "Nigella Lawson",
+  "experience": "20+ years",
+  "numRecipes": 250,
+  "likes": 350000,
+  "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUKbGpl-QP0IBxU6rZEd0Q_-lXT1JYUiRkQjrVdVyLgs8Don-tRIFBd7oi1uNGTNtfRU&usqp=CAU",
+  "bio": "Nigella Lawson is a British food writer and television cook. She is known for her warm and engaging style and her love of simple, delicious food. Lawson has written several bestselling cookbooks and hosted several popular cooking shows, including Nigella Bites and Nigellissima. Her recipes often combine classic British flavors with a modern twist.",
+  "recipes": [
+    {
+      "recipeName": "Chocolate Cake",
+      "ingredients": ["flour", "sugar", "cocoa powder", "baking powder", "baking soda", "eggs", "milk", "vegetable oil", "vanilla extract"],
+      "cookingMethod": "1. Preheat oven to 180C. 2. Mix flour, sugar, cocoa powder, baking powder, and baking soda in a bowl. 3. Add eggs, milk, vegetable oil, and vanilla extract. 4. Beat until well combined. 5. Pour into a greased cake pan. 6. Bake for 25-30 minutes. 7. Let cool before serving.",
+      "rating": 4.7,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "pancetta", "egg yolks", "Parmesan cheese", "black pepper"],
+      "cookingMethod": "1. Cook spaghetti in a large pot of boiling salted water until al dente. 2. Meanwhile, fry pancetta in a large skillet over medium-high heat until crispy. 3. In a small bowl, whisk egg yolks and Parmesan cheese together. 4. Drain spaghetti, reserving 1 cup of pasta water. 5. Add spaghetti to skillet with pancetta and toss to combine. 6. Remove from heat and add egg mixture, tossing quickly to avoid scrambling the eggs. 7. Add reserved pasta water as needed to thin the sauce. 8. Season with black pepper and serve.",
+      "rating": 4.2,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Lemon Drizzle Cake",
+      "ingredients": [
+        "butter",
+        "sugar",
+        "eggs",
+        "flour",
+        "baking powder",
+        "lemons"
+      ],
+      "cookingMethod": "1. Preheat oven to 180C. 2. Cream together butter and sugar until light and fluffy. 3. Beat in eggs one at a time. 4. Sift together flour and baking powder and fold into the mixture. 5. Stir in the zest of 2 lemons. 6. Pour mixture into a greased cake pan. 7. Bake for 35-40 minutes. 8. While cake is still warm, prick all over with a fork and pour over a syrup made from the juice of the 2 lemons and sugar. 9. Let cool before serving.",
+      "rating": 4.5,
+      "isFavorite": false
+    }]}
+    ,
+ {
+  "id": 6,
+  "chefName": "Anthony Bourdain",
+  "experience": "15+ years",
+  "numRecipes": 100,
+  "likes": 200000,
+  "chefPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzPBxkyy-eUiZtBnTZNXXL4pObXVo4urtMws-lwqx039ysQw4YKWxxkkMc6ptBzqnOHM&usqp=CAU",
+  "bio": "Anthony Bourdain was an American chef, author, and television personality. He was a passionate advocate for street food, cultural exploration, and adventurous eating. Bourdain's travels and experiences influenced his approach to cooking, and he was known for his honest and unfiltered opinions on food and culture. He authored several books, including the best-selling Kitchen Confidential, and hosted several television shows, including Anthony Bourdain: Parts Unknown. He was a beloved figure in the food and travel community, and his legacy continues to inspire chefs and food lovers around the world.",
+  "recipes": [
+    {
+      "recipeName": "Boeuf Bourguignon",
+      "ingredients": [
+        "beef chuck",
+        "bacon",
+        "onion",
+        "carrots",
+        "garlic",
+        "red wine",
+        "beef broth",
+        "tomato paste"
+      ],
+      "cookingMethod": "1. Preheat oven to 350F. 2. Cut the beef into 2-inch pieces. 3. Cook bacon in a Dutch oven until crispy. 4. Remove bacon and set aside. 5. Brown the beef in the bacon fat. 6. Remove beef and set aside. 7. Cook onion and carrots in the same pot until softened. 8. Add garlic and cook for 1 minute. 9. Add tomato paste and cook for 1-2 minutes. 10. Add red wine and beef broth. 11. Return beef and bacon to the pot. 12. Bring to a simmer, then cover and transfer to the oven. 13. Cook for 2-3 hours, until beef is tender. 14. Serve with crusty bread.",
+      "rating": 4.7,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Pad Thai",
+      "ingredients": [
+        "rice noodles",
+        "chicken",
+        "shrimp",
+        "tofu",
+        "bean sprouts",
+        "garlic",
+        "shallots",
+        "peanuts",
+        "fish sauce",
+        "tamarind paste",
+        "sugar",
+        "lime juice",
+        "eggs"
+      ],
+      "cookingMethod": "1. Soak the rice noodles in cold water for 30 minutes. 2. Cook chicken, shrimp, and tofu in a wok until browned. 3. Remove from wok and set aside. 4. Add garlic and shallots to the wok and cook until fragrant. 5. Add the soaked rice noodles and stir-fry for 2-3 minutes. 6. Add fish sauce, tamarind paste, sugar, and lime juice. 7. Push the noodles to one side of the wok and crack the eggs into the other side. 8. Scramble the eggs, then mix them with the noodles. 9. Add the chicken, shrimp, tofu, bean sprouts, and peanuts. 10. Toss everything together and cook for another minute or two. 11. Serve hot with lime wedges.",
+      "rating": 4.5,
+      "isFavorite": false
+    },
+    {
+      "recipeName": "Chocolate Cake",
+      "ingredients": [
+        "flour",
+        "sugar",
+        "cocoa powder",
+        "baking powder",
+        "baking soda",
+        "eggs",
+        "milk",
+        "vegetable oil",
+        "vanilla extract"
+      ],
+      "cookingMethod": "1. Preheat oven to 180C. 2. Mix flour, sugar, cocoa powder, baking powder, and baking soda in a bowl. 3. Add eggs, milk, vegetable oil, and vanilla extract. 4. Beat until well combined. 5. Pour into a greased cake pan. 6. Bake for 25-30 minutes. 7. Let cool before serving.",
+      "rating": 4.7,
+      "isFavorite": false
+    }
+  ]}
+]
